@@ -25,7 +25,7 @@ I'm a robotics engineering graduate with a background in mechanical systems, con
 ## 📫 Let's Connect
 
 - 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/rileyhalbert/)
-- 💌 Email: you@example.com
+- 💌 Email: rileyalbert00@gmail.com
 <!--
 **ralbert8/ralbert8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
