@@ -24,7 +24,7 @@ I'm a robotics engineering graduate with a background in mechanical systems, con
 
 ## 🚀 Featured ROS Projects
 
-### 🟢 [Open-Loop Control of TurtleBot3](https://github.com/ralbert8/Project0_RileyAlbert_ralbert8/tree/main/tb_control)
+### 🟢 [Open-Loop Control of TurtleBot3](https://github.com/ralbert8/Project0_RileyAlbert_ralbert8/tree/main)
 
 
 ---
