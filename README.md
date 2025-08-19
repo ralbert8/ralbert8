@@ -20,6 +20,12 @@ I'm a robotics engineering graduate with a background in mechanical systems, con
 - **Hardware**: Turtlebot3/4, Raspberry Pi, Dynamixel Actuators, Picamera, IMU, LiDAR
 - **Skills**: Path Plannins, Robot Modeling, Sensor Fusion, Object Tracking, Embedded Control
 
+---
+
+## 📫 Let's Connect
+
+- 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/rileyhalbert/)
+- 💌 Email: you@example.com
 <!--
 **ralbert8/ralbert8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
