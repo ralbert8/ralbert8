@@ -24,6 +24,7 @@ I'm a robotics engineering graduate with a background in mechanical systems, con
 
 ## 🚀 Featured ROS Projects
 
+### 🔴 [Design, Teleoperation, and Proportional Control of Toy Car + Trailer](https://github.com/ralbert8/ENPM662_Group5)
 ### 🟢 [Open-Loop Control of TurtleBot3](https://github.com/ralbert8/Project0_RileyAlbert_ralbert8/tree/main)
 
 
