@@ -18,7 +18,7 @@ I'm a robotics engineering graduate with a background in mechanical systems, con
 - **Frameworks**: ROS2 (Humble, Galactic), OpenCV, TensorFlow
 - **Tools**: Rviz, Gazebo, SLAM Toolbox, Nav2, TF2, Git, VSCode
 - **Hardware**: Turtlebot3/4, Raspberry Pi, Dynamixel Actuators, Picamera, IMU, LiDAR
-- **Skills**: Path Plannins, Robot Modeling, Sensor Fusion, Object Tracking, Embedded Control
+- **Skills**: Path Planning, Robot Modeling, Sensor Fusion, Object Tracking, Embedded Control
 
 ---
 
